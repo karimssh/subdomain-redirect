@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "http://vps-86000.fhnet.fr/:path*",
+      "permanent": true
+    }
+  ]
+}
